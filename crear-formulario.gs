@@ -41,7 +41,7 @@ const CONFIG = {
     {
       nombre: 'Adultos',
       actividades: [
-        actividad('Defensa personal femenina', 'Martes y jueves 17:00-18:00', 'Espacio para trabajar seguridad, prevencion, confianza y recursos basicos de defensa personal desde una perspectiva adaptada y respetuosa.', '22 euros socios AMPA', '24 euros no socios AMPA')
+        actividad('Defensa personal femenina', 'Martes y jueves 17:00-18:00', 'Espacio para trabajar seguridad, prevencion, confianza y recursos basicos de defensa personal desde una perspectiva adaptada y respetuosa.', '32 euros socios AMPA', '34 euros no socios AMPA')
       ]
     }
   ]

@@ -105,7 +105,7 @@ Preguntas recomendadas:
 
 | Actividad | Horario | Socios AMPA | No socios AMPA |
 | --- | --- | ---: | ---: |
-| Defensa personal femenina | Martes y jueves 17:00-18:00 | 22 euros | 24 euros |
+| Defensa personal femenina | Martes y jueves 17:00-18:00 | 32 euros | 34 euros |
 
 ## Recuento en Google Sheets
 
