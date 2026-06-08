@@ -93,7 +93,7 @@ Preguntas recomendadas:
 | Funky | Martes y jueves 17:00-18:00 | 21 euros | 24 euros |
 | Gimnasia ritmica | Martes y jueves 17:00-18:00 | 21 euros | 24 euros |
 | Inteligencia emocional | Viernes 17:00-18:30 | 21 euros | 24 euros |
-| Karate | Martes y jueves 17:00-18:00 | 21 euros | 24 euros |
+| Karate | Martes y jueves 15:30-16:30 | 21 euros | 24 euros |
 | Krav maga: defensa personal | Martes y jueves 17:00-18:00 | 21 euros | 24 euros |
 | Lenguaje de signos | Lunes y miercoles 17:00-18:00 | 21 euros | 24 euros |
 | Multideporte | Martes y jueves 17:00-18:00 | 21 euros | 24 euros |
