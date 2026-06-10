@@ -4,7 +4,7 @@ const CONFIG = {
     'Estamos preparando la oferta de extraescolares para el proximo curso. Esta preinscripcion nos ayudara a saber si hay alumnado suficiente para formar grupo. Rellenarla no garantiza plaza ni obliga al pago; sirve para organizar la oferta definitiva.',
   minimoGrupo: 8,
   cierre: {
-    fecha: new Date(2026, 5, 13, 23, 59, 0),
+    fecha: new Date(2026, 5, 16, 23, 59, 0),
     mensaje: 'El plazo de preinscripcion ha finalizado. Gracias por participar.'
   },
   categorias: [
@@ -42,7 +42,7 @@ const CONFIG = {
     {
       nombre: 'Adultos',
       actividades: [
-        actividad('Defensa personal femenina', 'Martes y jueves 17:00-18:00', 'Espacio para trabajar seguridad, prevencion, confianza y recursos basicos de defensa personal desde una perspectiva adaptada y respetuosa.', '31 euros socios AMPA', '34 euros no socios AMPA')
+        actividad('Defensa personal femenina', 'Martes y jueves 17:00-18:00', 'Un espacio para cuidarnos mientras lxs peques están en extraescolares: trabajaremos seguridad, prevención, confianza y recursos básicos de defensa personal desde una perspectiva adaptada y respetuosa.', '31 euros socios AMPA', '34 euros no socios AMPA')
       ]
     }
   ]

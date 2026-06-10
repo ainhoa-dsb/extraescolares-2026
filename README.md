@@ -15,7 +15,7 @@ Este proyecto deja preparada una solucion sin coste para recoger interes por act
 3. Pega el contenido de `crear-formulario.gs`.
 4. Ejecuta la funcion `crearFormularioExtraescolares`.
 5. Copia desde los logs el enlace "Formulario para familias".
-6. El script programa automaticamente el cierre del formulario para el 13 de junio de 2026 a las 23:59.
+6. El script programa automaticamente el cierre del formulario para el 16 de junio de 2026 a las 23:59.
 7. Sustituye en `index.html` el enlace del boton por el enlace real del formulario si cambia.
 8. Publica esta carpeta gratis con GitHub Pages, Netlify o cualquier hosting estatico.
 9. Comparte el enlace y un QR con las familias.
@@ -25,7 +25,7 @@ Este proyecto deja preparada una solucion sin coste para recoger interes por act
 El cierre se configura en `crear-formulario.gs`:
 
 ```text
-fecha: new Date(2026, 5, 13, 23, 59, 0)
+fecha: new Date(2026, 5, 16, 23, 59, 0)
 ```
 
 En JavaScript los meses empiezan en `0`, por eso `5` significa junio.
@@ -35,7 +35,7 @@ Cuando ejecutes `crearFormularioExtraescolares`, el script:
 - crea el formulario;
 - guarda internamente el identificador del formulario;
 - crea un disparador temporal;
-- cerrara el formulario el 13 de junio de 2026 a las 23:59;
+- cerrara el formulario el 16 de junio de 2026 a las 23:59;
 - mostrara el mensaje: "El plazo de preinscripcion ha finalizado. Gracias por participar."
 
 Puedes comprobar el disparador en Apps Script desde el icono de reloj o en `Activadores`.
@@ -70,8 +70,6 @@ Preguntas recomendadas:
 | Acepto que estos datos se usen solo para organizar la oferta de extraescolares | Casilla de verificacion | Si |
 
 ## Oferta por etapa
-
-Las cuotas mensuales indicadas incluyen el coste del servicio contratado, la gestion administrativa de la actividad y una aportacion destinada a mejoras y actividades promovidas por el AMPA.
 
 ### Infantil
 
