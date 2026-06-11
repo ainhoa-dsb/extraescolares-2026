@@ -69,6 +69,12 @@ Preguntas recomendadas:
 | Observaciones o necesidades a tener en cuenta | Parrafo | No |
 | Acepto que estos datos se usen solo para organizar la oferta de extraescolares | Casilla de verificacion | Si |
 
+## Aviso sobre ingles
+
+![Interland School of Languages](assets/interland-logo.jpg)
+
+La extraescolar de ingles la gestiona Interland. Su horario puede solaparse unicamente con Karate, por lo que conviene revisarlo antes de marcar las opciones en el formulario.
+
 ## Oferta por etapa
 
 ### Infantil
